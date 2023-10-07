@@ -35,7 +35,7 @@
 		}
 		
         .keyboard-key {
-            width: 50px;
+            width: 50px; 
             height: 50px;
             background-color: #f5f5f5;
             border: 1px solid #ccc;
